@@ -4,7 +4,7 @@
   
     <div class="indecision-container">
       <input type="text" placeholder="Ask me a Question" v-model="newQuestion"/>
-      <p>End the question with a '?' </p>
+      <p>End the question with a "?" </p>
   
       <div>
         <h2> {{ question }}</h2>
