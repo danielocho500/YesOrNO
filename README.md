@@ -1,4 +1,6 @@
-# 03-fundamentos
+# Yes or No Meme
+
+Web Running: https://yesornomeme.netlify.app/
 
 ## Project setup
 ```
@@ -9,16 +11,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
